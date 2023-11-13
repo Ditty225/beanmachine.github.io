@@ -220,7 +220,7 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:grey;">
+<body style="background-color:lightgold;">
 	<img src="beanmachiine.png" alt="Company Logo!">
   <h1>Diamond Casino & Resort Calculator</h1>
   
