@@ -221,7 +221,7 @@ function resetCalculator() {
 <div style="margin-bottom: 25px;"></div>
  
 <body style="background-color:grey;">
-	<img src="diamondcasino.png" alt="Company Logo!">
+	<img src="beanmachiine.png" alt="Company Logo!">
   <h1>Diamond Casino & Resort Calculator</h1>
   
   <h2>Menu Items</h2>
@@ -339,6 +339,91 @@ function resetCalculator() {
     <label for="Velmachoice">20 Espresso - 2000$</label>
     <input type="number" value="1" min="1">
   </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="3000$">
+    <label for="Velmachoice">30 Espresso - 3000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="5000$">
+    <label for="Velmachoice">50 Espresso - 5000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="8500$">
+    <label for="Velmachoice">100 Espresso - 8500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+<h3>The Bean Deals</h3>
+
+  <div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="1000$">
+    <label for="Velmachoice">10 House Blend - 1000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">20 House Blend - 2500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="3500$">
+    <label for="Velmachoice">30 House Blend - 3500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="6000$">
+    <label for="Velmachoice">50 House Blend - 6000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="9500$">
+    <label for="Velmachoice">100 House Blend -9500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+<h3>Gem Meals</h3>
+
+  <div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="1500$">
+    <label for="Velmachoice">Breakfast Meal - 1500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Ruby Meal - 2500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="2500$">
+    <label for="Velmachoice">Diamond Meal - 2500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+<h3>Special's</h3>
+
+  <div style="margin-bottom: 10px;"></div>
+  
+  <div>
+    <input type="checkbox" id="uwueats" value="450$">
+    <label for="Velmachoice">Ditty's - 450$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
   
 
   
