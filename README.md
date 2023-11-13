@@ -437,7 +437,7 @@ function resetCalculator() {
 </div>
 
 <div>
-    <label for="name">Bartender's Name:</label>
+    <label for="name">Baristas Name:</label>
     <input type="text" id="name">
   </div>
   
