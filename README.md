@@ -175,7 +175,7 @@
           },
           {
             name: 'Discount Total',
-            value: '$' + discountTotal.toFixed(2),
+            value: '%' + discountTotal.toFixed(2),
             inline: true
           },
           {
@@ -436,7 +436,7 @@ function resetCalculator() {
   <div>
     <input type="checkbox" id="uwueats" value="-20%">
     <label for="Velmachoice">EMS, LEO, DOC, DOJ - 20% off</label>
-    <input type="number" value="1" min="1">
+    <input type="number" value="1" min="1" max="1">
   </div>
 
 
