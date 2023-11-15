@@ -1,4 +1,4 @@
-# beanmachine.github.io
+ # beanmachine.github.io
 <html>
 <head>
   <title>Menu Calculator</title>
@@ -424,9 +424,6 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-  
-
-  
 
   <h3> Discount Items</h3> 
 
@@ -435,6 +432,14 @@ function resetCalculator() {
   <label for="50off">Employee Discount - 50% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
+
+  <div>
+    <input type="checkbox" id="uwueats" value="20%">
+    <label for="Velmachoice">EMS, LEO, DOC, DOJ - 20%</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+
 
 <div>
     <label for="name">Baristas Name:</label>
@@ -457,9 +462,6 @@ function resetCalculator() {
 
 
 
- 
-  
-  
   <div style="margin-bottom: 45px;"></div>
   
 
