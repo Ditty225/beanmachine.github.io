@@ -42,7 +42,7 @@
     }
 	
 	h3 {
-      border: 1px solid black; /* Adjust the border style as needed */
+      border: 1px solid yellow; /* Adjust the border style as needed */
       padding: 5px; /* Add padding to create space around the heading */
     }
     
@@ -220,7 +220,7 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:darkgreen;">
+<body style="background-color:olive;">
 	<img src="beanmachiine.png" alt="Company Logo!">
   <h1>Diamond Casino & Resort Calculator</h1>
   
