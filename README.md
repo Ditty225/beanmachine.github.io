@@ -433,13 +433,6 @@ function resetCalculator() {
   <input type="number" value="1" min="1" max="1">
 </div>
 
-  <div>
-    <input type="checkbox" id="uwueats" value="-20%">
-    <label for="Velmachoice">EMS, LEO, DOC, DOJ - 20% off</label>
-    <input type="number" value="1" min="1" max="1">
-  </div>
-
-
 
 <div>
     <label for="name">Baristas Name:</label>
