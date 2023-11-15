@@ -110,7 +110,7 @@
     totalElement.textContent = total.toFixed(2);
 
     var discountTotalElement = document.getElementById('discount-total');
-    var discount = total * 0.20;
+    var discount = total * 0.80;
     discountTotalElement.textContent = discount.toFixed(2);
   }
 
@@ -220,7 +220,7 @@ function resetCalculator() {
 	
 <div style="margin-bottom: 25px;"></div>
  
-<body style="background-color:lightgold;">
+<body style="background-color:darkgreen;">
 	<img src="beanmachiine.png" alt="Company Logo!">
   <h1>Diamond Casino & Resort Calculator</h1>
   
