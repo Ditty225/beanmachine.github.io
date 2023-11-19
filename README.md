@@ -222,7 +222,7 @@ function resetCalculator() {
  
 <body style="background-color:white;">
 	<img src="beanmachiine.png" alt="Company Logo!">
-  <h1>Diamond Casino & Resort Calculator</h1>
+  <h1>The Bean Machine Calculator</h1>
   
   <h2>Menu Items</h2>
 
